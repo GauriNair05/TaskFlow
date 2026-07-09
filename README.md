@@ -1,6 +1,6 @@
-# TaskFlow HQ
+# TaskFlow
 
-TaskFlow HQ is a simple web-based task management dashboard built with Flask and PostgreSQL (Supabase). It allows employees to log in securely, view their assigned tasks, and update their task progress in real time.
+TaskFlow is a simple web-based task management dashboard built with Flask and PostgreSQL (Supabase). It allows employees to log in securely, view their assigned tasks, and update their task progress in real time.
 
 ## Core Features
 
